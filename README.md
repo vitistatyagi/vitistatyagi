@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitistatyagi
 - 👀 I’m interested in data analytics
-- 📫 You can reach me via e-mail: vitista17@icloud.com
+- 📫 You can reach me via e-mail: vitistatyagi@gmail.com
 
 <!---
 vitistatyagi/vitistatyagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
